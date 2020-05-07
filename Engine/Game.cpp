@@ -33,6 +33,7 @@ Game::Game( MainWindow& wnd )
 
 void Game::Go()
 {
+	//lol
 	gfx.BeginFrame();
 	UpdateModel();
 	ComposeFrame();
